@@ -25,7 +25,7 @@ The application uses prepared statements for security and Bootstrap for styling.
 1. Clone or download this repository
 2. Place the project folder inside 
 
-## C:\xampp\htdocs\
+ C:\xampp\htdocs\
 
 3. Start XAMPP
 - Start Apache and MySql
@@ -75,5 +75,5 @@ Deleting data
 All functionalities work as expected.
 
 ## Author
-
-## Maciek Urban
+ Maciek Urban
+ Software Developer
